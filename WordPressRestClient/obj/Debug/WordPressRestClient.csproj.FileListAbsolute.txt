@@ -1,0 +1,10 @@
+C:\Projects\C#\WordPress\WordPressRestClient\obj\Debug\WordPressRestClient.csprojAssemblyReference.cache
+C:\Projects\C#\WordPress\WordPressRestClient\obj\Debug\WordPressRestClient.csproj.CoreCompileInputs.cache
+C:\Projects\C#\WordPress\WordPressRestClient\bin\Debug\WordPressRestClient.dll
+C:\Projects\C#\WordPress\WordPressRestClient\bin\Debug\WordPressRestClient.pdb
+C:\Projects\C#\WordPress\WordPressRestClient\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\C#\WordPress\WordPressRestClient\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Projects\C#\WordPress\WordPressRestClient\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\C#\WordPress\WordPressRestClient\obj\Debug\WordPressRestClient.csproj.CopyComplete
+C:\Projects\C#\WordPress\WordPressRestClient\obj\Debug\WordPressRestClient.dll
+C:\Projects\C#\WordPress\WordPressRestClient\obj\Debug\WordPressRestClient.pdb
