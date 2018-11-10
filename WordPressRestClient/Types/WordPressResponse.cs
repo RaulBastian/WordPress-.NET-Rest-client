@@ -6,6 +6,11 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace WordPressRestClient.Types {
+
+    /// <summary>
+    /// Generic type used for word press responses
+    /// </summary>
+    /// <typeparam name="T"></typeparam>
     public class WordPressResponse<T> where T: class {
 
         [JsonProperty("found")]

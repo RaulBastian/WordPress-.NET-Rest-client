@@ -5,6 +5,10 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace WordPressRestClient.Types {
+
+    /// <summary>
+    /// Attribute used to map a .NET to a wordpress entity
+    /// </summary>
     public class WordPressAttribute:Attribute {
 
         private static Dictionary<Type, string> type_entity_api_name = new Dictionary<Type, string>();
