@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace WordPressRestClient.Types {
 
     /// <summary>
-    /// Attribute used to map a .NET to a wordpress entity
+    /// Attribute used to map a .NET type to a wordpress entity
     /// </summary>
     public class WordPressAttribute:Attribute {
 

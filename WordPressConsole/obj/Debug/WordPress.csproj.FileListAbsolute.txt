@@ -116,8 +116,6 @@ C:\Projects\TFS\LearnPortuguese\LearnPortuguese\WordPress\WordPressConsole\bin\D
 C:\Projects\TFS\LearnPortuguese\LearnPortuguese\WordPress\WordPressConsole\bin\Debug\WordPress.pdb
 C:\Projects\TFS\LearnPortuguese\LearnPortuguese\WordPress\WordPressConsole\bin\Debug\WordPressRestClient.dll
 C:\Projects\TFS\LearnPortuguese\LearnPortuguese\WordPress\WordPressConsole\bin\Debug\WordPressRestClient.pdb
-C:\Projects\TFS\LearnPortuguese\LearnPortuguese\WordPress\WordPressConsole\bin\Debug\Newtonsoft.Json.xml
-C:\Projects\TFS\LearnPortuguese\LearnPortuguese\WordPress\WordPressConsole\bin\Debug\System.ValueTuple.xml
 C:\Projects\TFS\LearnPortuguese\LearnPortuguese\WordPress\WordPressConsole\obj\Debug\WordPress.csprojAssemblyReference.cache
 C:\Projects\TFS\LearnPortuguese\LearnPortuguese\WordPress\WordPressConsole\obj\Debug\WordPress.csproj.CoreCompileInputs.cache
 C:\Projects\TFS\LearnPortuguese\LearnPortuguese\WordPress\WordPressConsole\obj\Debug\WordPress.csproj.CopyComplete
