@@ -25,7 +25,7 @@ namespace WordPressRestClient.Types {
             //If it's a WordPressResponse type...
             if (type.IsGenericType && type.GetGenericTypeDefinition() == genericTypeDefinition) {
 
-                //We retrieve its generic arguments, e.g: Post this would be IEnumerable<Post>
+                //We retrieve its generic arguments, e.g: For posts this would be IEnumerable<Post>
                 var genericParameterType = type.GetGenericArguments().First();
 
                 //If it's a generic type, which if it's a IEnumerable<Post> it will, we continue...

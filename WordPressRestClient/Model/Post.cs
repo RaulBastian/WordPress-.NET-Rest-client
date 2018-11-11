@@ -124,7 +124,8 @@ namespace WordPressRestClient.Model {
         [JsonProperty("attachment_count", DefaultValueHandling = DefaultValueHandling.Ignore)]
         public int Attachment_count { get; set; }
 
-        [JsonProperty("metadata", DefaultValueHandling = DefaultValueHandling.Ignore)]
+        [JsonProperty("metadata", DefaultValueHandling = DefaultValueHandling.Include)]
+        [JsonConverter(typeof(BoolToNullConverter))]
         public Metadata[] Metadata { get; set; }
 
         [JsonProperty("meta", DefaultValueHandling = DefaultValueHandling.Ignore)]

@@ -23,8 +23,16 @@ namespace WordPressWPF {
         }
 
         private async void Button_Click(object sender, RoutedEventArgs e) {
-            var client = new WordPressRestClient.WordPressClient("learnportugueseskype.wordpress.com/");
-            var response = await client.Posts.GetAll();
+
+            try {
+                var client = new WordPressRestClient.WordPressClient("learnportugueseskype.wordpress.com/");
+                var response = await client.Posts.GetAll();
+            }
+            catch (Exception ex) {
+
+                throw;
+            }
+
         }
     }
 }
