@@ -1,0 +1,7 @@
+C:\Projects\TFS\LearnPortuguese\LearnPortuguese\WordPress\WordPressRestClient\obj\Release\WordPressRestClient.csprojAssemblyReference.cache
+C:\Projects\TFS\LearnPortuguese\LearnPortuguese\WordPress\WordPressRestClient\obj\Release\WordPressRestClient.csproj.CoreCompileInputs.cache
+C:\Projects\TFS\LearnPortuguese\LearnPortuguese\WordPress\WordPressRestClient\bin\Release\WordPressRestClient.dll
+C:\Projects\TFS\LearnPortuguese\LearnPortuguese\WordPress\WordPressRestClient\bin\Release\WordPressRestClient.pdb
+C:\Projects\TFS\LearnPortuguese\LearnPortuguese\WordPress\WordPressRestClient\obj\Release\WordPressRestClient.csproj.CopyComplete
+C:\Projects\TFS\LearnPortuguese\LearnPortuguese\WordPress\WordPressRestClient\obj\Release\WordPressRestClient.dll
+C:\Projects\TFS\LearnPortuguese\LearnPortuguese\WordPress\WordPressRestClient\obj\Release\WordPressRestClient.pdb

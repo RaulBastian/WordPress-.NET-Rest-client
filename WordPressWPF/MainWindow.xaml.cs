@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Newtonsoft.Json;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -27,6 +28,9 @@ namespace WordPressWPF {
             try {
                 var client = new WordPressRestClient.WordPressClient("learnportugueseskype.wordpress.com/");
                 var response = await client.Posts.GetAll();
+                var json = await client.Posts.GetAllAsJson();
+
+                var postsAsJson = JsonConvert.SerializeObject(response);
             }
             catch (Exception ex) {
 

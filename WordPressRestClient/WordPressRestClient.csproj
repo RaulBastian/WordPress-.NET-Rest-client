@@ -78,6 +78,7 @@
     <Compile Include="Types\BoolToNullConverter.cs" />
     <Compile Include="Types\WordPressAttribute.cs" />
     <Compile Include="Types\WordPressContractResolver.cs" />
+    <Compile Include="Types\WordPressConvert.cs" />
     <Compile Include="Types\WordPressResponse.cs" />
     <Compile Include="Client\WordPressClient.cs" />
   </ItemGroup>

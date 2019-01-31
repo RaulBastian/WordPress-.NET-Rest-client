@@ -1,0 +1,11 @@
+C:\Projects\TFS\LearnPortuguese\LearnPortuguese\WordPress\WordPressConsole\obj\Release\WordPress.csprojAssemblyReference.cache
+C:\Projects\TFS\LearnPortuguese\LearnPortuguese\WordPress\WordPressConsole\obj\Release\WordPress.csproj.CoreCompileInputs.cache
+C:\Projects\TFS\LearnPortuguese\LearnPortuguese\WordPress\WordPressConsole\bin\Release\WordPress.exe.config
+C:\Projects\TFS\LearnPortuguese\LearnPortuguese\WordPress\WordPressConsole\bin\Release\WordPress.exe
+C:\Projects\TFS\LearnPortuguese\LearnPortuguese\WordPress\WordPressConsole\bin\Release\WordPress.pdb
+C:\Projects\TFS\LearnPortuguese\LearnPortuguese\WordPress\WordPressConsole\bin\Release\Newtonsoft.Json.dll
+C:\Projects\TFS\LearnPortuguese\LearnPortuguese\WordPress\WordPressConsole\bin\Release\WordPressRestClient.dll
+C:\Projects\TFS\LearnPortuguese\LearnPortuguese\WordPress\WordPressConsole\bin\Release\WordPressRestClient.pdb
+C:\Projects\TFS\LearnPortuguese\LearnPortuguese\WordPress\WordPressConsole\obj\Release\WordPress.csproj.CopyComplete
+C:\Projects\TFS\LearnPortuguese\LearnPortuguese\WordPress\WordPressConsole\obj\Release\WordPress.exe
+C:\Projects\TFS\LearnPortuguese\LearnPortuguese\WordPress\WordPressConsole\obj\Release\WordPress.pdb

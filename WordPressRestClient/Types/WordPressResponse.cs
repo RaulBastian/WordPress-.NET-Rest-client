@@ -17,5 +17,6 @@ namespace WordPressRestClient.Types {
         public int Found { get; set; }
 
         public T Items { get; set; }
+
     }
 }
