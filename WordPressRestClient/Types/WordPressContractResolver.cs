@@ -14,7 +14,8 @@ namespace WordPressRestClient.Types {
         Type genericTypeDefinition = (new WordPressResponse<Post>()).GetType().GetGenericTypeDefinition();
 
         /// <summary>
-        /// Updates the the JSON property at runtime, it inspects the WordPressResponse generic argument and updates the json property name
+        /// Updates the JSON property at runtime so it deserialises correctly by inspecting 
+        /// the WordPressResponse generic argument and updating the json property name
         /// </summary>
         /// <param name="type"></param>
         /// <param name="memberSerialization"></param>
