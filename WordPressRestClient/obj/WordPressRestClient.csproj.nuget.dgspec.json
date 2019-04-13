@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\Github\\My\\Private\\LearnPortuguese\\LearnPortuguese\\WordPressRestClient\\WordPressRestClient\\WordPressRestClient.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\Github\\My\\Private\\LearnPortuguese\\LearnPortuguese\\WordPressRestClient\\WordPressRestClient\\WordPressRestClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\Github\\My\\Private\\LearnPortuguese\\LearnPortuguese\\WordPressRestClient\\WordPressRestClient\\WordPressRestClient.csproj",
+        "projectName": "WordPressRestClient",
+        "projectPath": "D:\\Projects\\Github\\My\\Private\\LearnPortuguese\\LearnPortuguese\\WordPressRestClient\\WordPressRestClient\\WordPressRestClient.csproj",
+        "packagesPath": "D:\\Projects\\global_nuget_packages",
+        "outputPath": "D:\\Projects\\Github\\My\\Private\\LearnPortuguese\\LearnPortuguese\\WordPressRestClient\\WordPressRestClient\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "D:\\Projects\\NuGet.Config",
+          "C:\\Users\\raulb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            },
+            "System.Runtime.Serialization.Primitives": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
